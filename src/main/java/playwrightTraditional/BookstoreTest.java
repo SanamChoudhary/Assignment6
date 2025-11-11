@@ -7,8 +7,7 @@ import org.junit.Test;
 import java.nio.file.Paths;
 
 import static com.microsoft.playwright.assertions.PlaywrightAssertions.assertThat;
-//import static org.junit.Assert.assertFalse;
-//import static org.junit.Assert.assertTrue;
+
 
 //run mvn clean before testing
 public class BookstoreTest {

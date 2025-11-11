@@ -8,6 +8,7 @@ import java.nio.file.Paths;
 
 import static com.microsoft.playwright.assertions.PlaywrightAssertions.assertThat;
 
+//run mvn clean before running
 public class BookstoreTestLLM {
     @Test
     public void testEarbudsSearchFilterAddToCartAndRemove() {
